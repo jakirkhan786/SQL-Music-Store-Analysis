@@ -226,6 +226,3 @@ WHERE cc.total_spending = ms.max_spending
 ORDER BY 1;
 
 
-/* source: www.youtube.com/@RishabhMishraOfficial */
-
-/* Thank You :) */
